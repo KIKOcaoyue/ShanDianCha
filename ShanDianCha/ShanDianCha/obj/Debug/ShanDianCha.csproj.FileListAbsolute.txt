@@ -1,0 +1,9 @@
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\bin\Debug\ShanDianCha.exe.config
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\bin\Debug\ShanDianCha.exe
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\bin\Debug\ShanDianCha.pdb
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.csprojAssemblyReference.cache
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.Form1.resources
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.Properties.Resources.resources
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.csproj.GenerateResource.cache
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.exe
+C:\Users\63248\source\repos\ShanDianCha\ShanDianCha\obj\Debug\ShanDianCha.pdb
